@@ -8,8 +8,8 @@ public class Factorial {
         return result;
     }
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         int number = 5;
         System.out.println("Factorial of " + number + " is " + compute(number));
-    }*/
+    }
 }
