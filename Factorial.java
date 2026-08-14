@@ -9,7 +9,7 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        int number = 6;
+        int number = 7;
         System.out.println("Factorial of " + number + " is " + compute(number));
     }
 }
