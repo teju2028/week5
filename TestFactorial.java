@@ -11,7 +11,6 @@ public class TestFactorial {
             System.out.println("All tests passed.");
         } catch (Exception e) {
             System.err.println("Test failed: " + e.getMessage());
-            //System.exit(1); // non-zero exit will fail the Jenkins stage
         }
     }
 }
